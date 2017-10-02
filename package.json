@@ -1,0 +1,18 @@
+{
+  "name": "copack-typescript",
+  "version": "0.0.1",
+  "description": "JavaScript packaging helper: TypeScript",
+  "repository": {
+    "url": "https://github.com/copack/copack-typescript"
+  },
+  "author": {
+    "name": "Ali Malekpour",
+    "email": "ali@malekpour.me",
+    "url": "https://github.com/malekpour"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "copack": "^0.0.1",
+    "typescript": "^2.5.3"
+  }
+}
